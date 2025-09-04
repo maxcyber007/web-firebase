@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
-    "firebase-build": "npm run build",
     "start": "next start",
     "lint": "eslint"
   },
